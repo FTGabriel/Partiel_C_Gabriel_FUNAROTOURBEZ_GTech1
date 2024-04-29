@@ -1,0 +1,96 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (apprentissage.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  gestion_serpent.c
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(6,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(9,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(66,13): warning C4013: 'printw' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(72,5): warning C4013: 'move' non défini(e) ; extern retournant int pris par défaut
+  initialisation.c
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\initialisation.c(7,18): warning C4098: 'init' : fonction 'void' retournant une valeur
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\initialisation.c(21,18): warning C4098: 'window' : fonction 'void' retournant une valeur
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\initialisation.c(32,18): warning C4098: 'renderer' : fonction 'void' retournant une valeur
+  main.c
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(6,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(9,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(6,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(9,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(21,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(10,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(6,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(9,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(66,13): warning C4013: 'printw' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\gestion_serpent.c(72,5): warning C4013: 'move' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(61,5): warning C4013: 'initscr' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(62,5): warning C4013: 'keypad' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(63,5): warning C4013: 'noecho' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(64,5): warning C4013: 'cbreak' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(66,5): warning C4013: 'getmaxyx' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(77,13): warning C4013: 'genererDuManger' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(81,13): warning C4013: 'timeout' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(84,18): warning C4013: 'getch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(85,9): warning C4013: 'gererEvenement' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(86,9): warning C4013: 'erase' non défini(e) ; extern retournant int pris par défaut
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\main.c(94,5): warning C4013: 'endwin' non défini(e) ; extern retournant int pris par défaut
+  nourriture.c
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(6,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(8,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(9,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\apprentissage\nourriture.c(21,11): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+initialisation.obj : error LNK2005: creerSnake déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: afficherGrille déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: ajouterEnTete déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: creerSnake déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: initGrille déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: printFail déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: supprimerQueue déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: grille déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: nbLignes déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: nbColonnes déjà défini(e) dans gestion_serpent.obj
+main.obj : error LNK2005: passer_murs déjà défini(e) dans gestion_serpent.obj
+nourriture.obj : error LNK2005: generernourriture déjà défini(e) dans main.obj
+nourriture.obj : error LNK2005: grille déjà défini(e) dans gestion_serpent.obj
+nourriture.obj : error LNK2005: nbLignes déjà défini(e) dans gestion_serpent.obj
+nourriture.obj : error LNK2005: nbColonnes déjà défini(e) dans gestion_serpent.obj
+nourriture.obj : error LNK2005: passer_murs déjà défini(e) dans gestion_serpent.obj
+gestion_serpent.obj : error LNK2019: symbole externe non résolu printw référencé dans la fonction afficherGrille
+main.obj : error LNK2001: symbole externe non résolu printw
+gestion_serpent.obj : error LNK2019: symbole externe non résolu move référencé dans la fonction printFail
+main.obj : error LNK2001: symbole externe non résolu move
+main.obj : error LNK2019: symbole externe non résolu initscr référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu keypad référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu noecho référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu cbreak référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu getmaxyx référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu genererDuManger référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu timeout référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu gererEvenement référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu erase référencé dans la fonction SDL_main
+main.obj : error LNK2019: symbole externe non résolu endwin référencé dans la fonction SDL_main
+C:\Users\gfunarotourbez\Downloads\repos-20240320T191434Z-001\repos\apprentissage\x64\Debug\Jeu_snake.exe : fatal error LNK1120: 12 externes non résolus
